@@ -1,0 +1,11 @@
+:_mod-docs-content-type: ASSEMBLY
+include::_attributes/common-attributes.adoc[]
+:context: installing-on-prem-assisted
+[id="installing-on-prem-assisted"]
+= Installing an on-premise cluster using the {ai-full}
+
+toc::[]
+
+The {ai-full} for {product-title} is a user-friendly installation solution offered on the link:https://console.redhat.com/[{hybrid-console}].
+
+include::modules/assisted-installer-using-the-assisted-installer.adoc[leveloffset=+1]

@@ -1,0 +1,9 @@
+// This is included in the following assemblies:
+//
+// installing-on-prem-assisted.adoc
+:_mod-docs-content-type: CONCEPT
+
+[id="using-the-assisted-installer_{context}"]
+= Using the Assisted Installer
+
+See the link:https://access.redhat.com/documentation/en-us/assisted_installer_for_openshift_container_platform[Installing {product-title} with the {ai-full}] documentation for details.
